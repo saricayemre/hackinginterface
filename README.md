@@ -1,4 +1,4 @@
-# Faydalı Hacking Konularının Linkleri
+# Faydalı Hacking Araçları
 
 ### Sosyal Mühendislik Araçları
 
