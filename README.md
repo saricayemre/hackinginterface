@@ -7,6 +7,6 @@
 
 ### Web Uygulama Güvenliği Araçları
 
-⏩ [Sitadel](https://github.com/shenril/Sitadel)
-⏩ [IronWASP](https://github.com/war-and-code/IronWASP)
-⏩ [WAScan](https://github.com/m4ll0k/WAScan)
+⏩ [Sitadel](https://github.com/shenril/Sitadel)<br>
+⏩ [IronWASP](https://github.com/war-and-code/IronWASP)<br>
+⏩ [WAScan](https://github.com/m4ll0k/WAScan)<br>
